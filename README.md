@@ -22,5 +22,5 @@ YTD car sales across 20+ brands and multiple US dealer regions.
 
 ## Key findings
 - Top brand by units: Chevrolet (1,043 units, $27.1M)
-- Top body style: looks like SUV from the donut
+- Top body style: SUV from the donut chart
 - Peak sales week: Week 30 ($14.9M spike visible)
